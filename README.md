@@ -11,6 +11,6 @@ Some brief highlights:
 * :bullettrain_front: [Locomotor](https://github.com/michaelmior/locomotor) enables Python code using Redis to automatically be rewritten as Redis scripts
 * :sparkles: [Apache Calcite](https://github.com/apache/calcite) is a query processing and optimization framework for relational data
 
-:email: RIT students interested in working with me should contact me at my [RIT email address](mailto:mmior@cs.rit.edu).
+:email: RIT students interested in working with me should contact me at my [RIT email address](mailto:mmior@mail.rit.edu).
 
 <a href="https://stackoverflow.com/users/123695/michael-mior"><img src="https://stackoverflow.com/users/flair/123695.png" width="208" height="58" alt="profile for Michael Mior at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Michael Mior at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
