@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Assistant Professor in the [Department of Computer Science](https://cs.rit.edu/) at the [Rochester Institute of Technology](https://rit.edu/). Go Tigers! :tiger:
+I am an Assistant Professor in the [Department of Computer Science](https://cs.rit.edu/) at the [Rochester Institute of Technology](https://rit.edu/) and director of the [Data Unity Lab](https://cs.rit.edu/~dataunitylab). Go Tigers! :tiger:
 
 Repositories here consist of personal projects as well as some of my academic research.
 You can [visit my website](https://michael.mior.ca/projects/) for more information on my ongoing projects.
